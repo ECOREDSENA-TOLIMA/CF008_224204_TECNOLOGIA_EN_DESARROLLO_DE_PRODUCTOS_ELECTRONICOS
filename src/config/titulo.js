@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Desensamblaje de residuos de aparatos eléctricos y electrónicos'
