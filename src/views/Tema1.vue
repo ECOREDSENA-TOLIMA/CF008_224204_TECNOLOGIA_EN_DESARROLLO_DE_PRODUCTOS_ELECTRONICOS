@@ -21,17 +21,17 @@
             p.mb-0 Hornos, frigoríficos, congeladores, campanas extractoras, microondas, aires acondicionados, equipos de calefacción, ventiladores, lavadoras, secadoras y lavaplatos.
         .col-md-6.col-xl-3.p-2.d-flex
           .tarjeta.p-4.text-center(data-aos="fade-right" style="background-color: #DEE4F0; box-shadow: 3px 6px 6px #00000040")
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/t2.png" style="max-width: 142px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/t2.png" style="max-width: 160px")
             h4.titulo-cuarto Línea gris
             p.mb-0 Ordenadores portátiles y de mesa, Smartphones, Tablets, Impresoras, Faxes y Teclados. 
         .col-md-6.col-xl-3.p-2.d-flex
           .tarjeta.p-4.text-center(data-aos="fade-left" style="background-color: #FFD4A3; box-shadow: 3px 6px 6px #00000040")
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/t3.png" style="max-width: 142px")
-            h4.titulo-cuarto Línea Marrón
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/t3.png" style="max-width: 135px")
+            h4.titulo-cuarto Línea marrón
             p.mb-0 Televisores, monitores, radios, reproductores de música, cámaras de foto y vídeo, auriculares, mandos a distancia, equipos de música y altavoces. 
         .col-md-6.col-xl-3.p-2.d-flex
           .tarjeta.p-4.text-center(data-aos="fade-left" style="background-color: #D9F8F2; box-shadow: 3px 6px 6px #00000040")
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/t4.png" style="max-width: 142px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/t4.png" style="max-width: 130px")
             h4.titulo-cuarto Línea PAE
             p.mb-0 Freidoras, cafeteras, exprimidores, tostadoras, planchas, básculas, máquinas de afeitar, secadores de pelo, aspiradoras y cepillos de dientes eléctricos. 
         .col-12.d-flex.flex-wrap.align-items-center.p-4.my-5(style="background-color: #FBE594")
@@ -148,9 +148,8 @@
         span <em>Flujograma</em>
       
       img(src="@/assets/curso/temas/tema1/img-7.svg" data-aos="fade-right")
-      p.px-3.py-2.text-center.mb-5(style="background-color: #F3F9FF") Nota: Tomado de Spitzbart M. (2016)
   
-      .d-flex.flex-wrap.mb-4
+      .d-flex.flex-wrap.mb-4.mt-5
         .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
           p(data-aos="fade-right") Lo primero a tener en cuenta, cuando se quiere hacer una buena disposición de residuos, es separar aquellos componentes que resulten peligrosos para el medio ambiente o la salud de las personas, como ya se ha mencionado. El plástico en los cables, el mercurio en algunos elementos, como los tubos fluorescentes, por ejemplo, son de mucho cuidado para su disposición, porque el mercurio es altamente tóxico.
           .cajon.color-secundario.p-4.d-flex.flex-wrap(style="background-color: #EFDBEF" data-aos="fade-right")

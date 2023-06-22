@@ -33,7 +33,7 @@
         .col-xl-6.order-2.order-xl-1.pe-xl-4
           LineaTiempoD.color-primario.linea-tiempo-edit(data-aos="fade-right")
             .d-block(numero="A" titulo="Separación tradicional")
-              p.text-small La forma más común, de separación de componentes, se hace de la siguiente manera:
+              p.mb-2 La forma más común, de separación de componentes, se hace de la siguiente manera:
               ul
                 li.d-flex.align-items-start
                   <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
@@ -66,7 +66,7 @@
   
   
             .d-block(numero="B" titulo="Separación por niveles")
-              p.text-small Esta clasificación también se hace por niveles:
+              p.mb-2 Esta clasificación también se hace por niveles:
               ul
                 li.d-flex.align-items-start.mb-4
                   <svg style="width: 9px; min-width: 9px; margin-top: .2rem" id="Grupo_944" data-name="Grupo 944" xmlns="http://www.w3.org/2000/svg" width="8.621" height="14.674" viewBox="0 0 8.621 14.674">
@@ -433,7 +433,7 @@
   
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Tabla 1.
-        span Clasificación de los acumuladores según convenio de Basilea
+        span <em>Clasificación de los acumuladores según convenio de Basilea</em>
       
       .tabla-b.color-primario.mb-5(data-aos="fade-left")
         .tabla-b__header
