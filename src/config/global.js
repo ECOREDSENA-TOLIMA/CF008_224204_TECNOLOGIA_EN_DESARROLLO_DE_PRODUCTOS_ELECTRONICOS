@@ -176,7 +176,7 @@ export default {
         'Ministerio del medio ambiente. (s.f.) <em>Política nacional. Gestión integral de residuos de aparatos eléctricos y electrónicos.</em>',
       tipo: 'Página web',
       link:
-        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/e-book_rae_/contenido_2_1_1.html',
+        'https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee/',
     },
     {
       tema: 'Clasificación de residuos de aparatos eléctricos y electrónicos',
