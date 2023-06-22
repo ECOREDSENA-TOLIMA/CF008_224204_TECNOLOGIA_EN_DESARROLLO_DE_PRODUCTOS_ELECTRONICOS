@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Se describe el tema principal del Componente Formativo CF08 Desensamblaje de residuos de aparatos eléctricos y electrónicos, basado en los conceptos claves, los tipos según categoría, su clasificación, tratamiento y disposición final; así como la aplicación de la normatividad vigente y el impacto causado al medio ambiente y la salud de las personas cuando no se realiza la debida gestión
+    p Se describe el tema principal del Componente Formativo CF08 Desensamblaje de residuos de aparatos eléctricos y electrónicos, basado en los conceptos claves, los tipos según categoría, su clasificación, tratamiento y disposición final; así como la aplicación de la normatividad vigente y el impacto causado al medio ambiente y la salud de las personas cuando no se realiza la debida gestión.
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center
