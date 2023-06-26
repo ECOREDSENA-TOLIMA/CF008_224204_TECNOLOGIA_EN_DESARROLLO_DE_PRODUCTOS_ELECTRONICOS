@@ -115,7 +115,7 @@
 
       .d-flex.flex-wrap.mb-5
         .col-xl-8.pe-xl-4.d-flex.flex-wrap.align-items-center.order-2.order-xl-1
-          p(data-aos="fade-right") El manejo ético en la gestión de residuos de aparatos electrónicos es un tema a tener muy en cuenta. Es común apreciar la mala disposición de estos elemento, solo por no importar lo que pase al medio ambiente y a los demás, muchas veces el interés se centra en obtener un beneficio económico; por ejemplo, en grandes ciudades muchas veces se aprecia la quema de cables para separar el plástico y los componentes de protección del cable, y así quedarse solo con el cobre y poder venderlo, los humos emanados son muy tóxicos y generan daño a la comunidad.
+          p(data-aos="fade-right") El manejo ético en la gestión de residuos de aparatos electrónicos es un tema a tener muy en cuenta. Es común apreciar la mala disposición de estos elementos, solo por no importar lo que pase al medio ambiente y a los demás, muchas veces el interés se centra en obtener un beneficio económico; por ejemplo, en grandes ciudades muchas veces se aprecia la quema de cables para separar el plástico y los componentes de protección del cable, y así quedarse solo con el cobre y poder venderlo, los humos emanados son muy tóxicos y generan daño a la comunidad.
           .cajon.color-secundario.p-4.d-flex.flex-wrap(style="background-color: #EFDBEF" data-aos="fade-right")
             img.mb-4.mb-lg-0.col-lg-1.mx-auto(src="@/assets/curso/temas/tema1/decorador-4.svg" style="max-width: 70px")
             .col-md-11.ps-lg-4

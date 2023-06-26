@@ -103,14 +103,14 @@
         .col-lg-8.pe-lg-4.order-2.order-lg-1
           p(data-aos="fade-right") Las técnicas de manipulación de cargas están asociadas a las alteraciones de la salud. En las empresas, la capacitación de las personas, en las técnicas de la manipulación de cargas, es uno de los aspectos fundamentales de la prevención de problemas de dolores ocasionados por mal manejo de cargas pesadas. En la manipulación de los residuos de aparatos electrónicos es común encontrar objetos pesados, tales como monitores, impresoras láser, impresoras de gran formato, lavadoras, neveras, etc.
           .cajon.color-primario.p-4.d-flex.flex-wrap(data-aos="fade-right")
-            p El estudio de estas técnicas son importantes para evitar daños por manipulación errada. Cualquier actividad que incluya levantamiento, colocación, empuje, tracción, transporte o el desplazamiento de una carga debe tener en cuenta las consideraciones que se presentan en la siguiente figura.
+            p El estudio de estas técnicas es importante para evitar daños por manipulación errada. Cualquier actividad que incluya levantamiento, colocación, empuje, tracción, transporte o el desplazamiento de una carga debe tener en cuenta las consideraciones que se presentan en la siguiente figura.
         .col-lg-4.order-1.order-lg-2.mx-auto.mb-4.mb-lg-0
           img(src="@/assets/curso/temas/tema3/img-4.jpg" data-aos="fade-left")
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         h5 Figura 11
         span <em>Posturas correctas para manipular cargas</em>
       
-      img.mb-5(src="@/assets/curso/temas/tema3/img-5.jpg" data-aos="fade-right")
+      img.mb-5(src="@/assets/curso/temas/tema3/img-5.svg" data-aos="fade-right")
   
       .tarjeta.col-12.d-flex.flex-wrap.align-items-center.p-4(style="background-color: #FFD947")
         .col-12.col-md-3.col-lg-1
