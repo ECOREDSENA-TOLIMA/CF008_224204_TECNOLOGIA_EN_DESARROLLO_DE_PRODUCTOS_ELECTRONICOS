@@ -11,7 +11,7 @@
     
     img.mb-5(src="@/assets/curso/temas/img-1.jpg" data-aos="fade-left")
 
-    p.mb-5(data-aos="fade-right") El desembalaje de residuos de aparatos eléctricos y electrónicos no es una práctica fortuita sino que está fundamentada en normativas y procedimientos técnicos que definen su clasificación y disposición. El siguiente video expone y deja en evidencia la importancia de este aspecto en la actualidad.
+    p.mb-5(data-aos="fade-right") El desembalaje de residuos de aparatos eléctricos y electrónicos no es una práctica fortuita, sino que está fundamentada en normativas y procedimientos técnicos que definen su clasificación y disposición. El siguiente video expone y deja en evidencia la importancia de este aspecto en la actualidad.
 
     figure(data-aos="fade-left")
       .video

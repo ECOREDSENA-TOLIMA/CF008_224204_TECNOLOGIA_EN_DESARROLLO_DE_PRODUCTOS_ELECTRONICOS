@@ -178,7 +178,7 @@ export default {
     {
       tema: 'Clasificación de residuos de aparatos eléctricos y electrónicos',
       referencia:
-        'Ministerio del medio ambiente. (s.f.) <em>Política nacional. Gestión integral de residuos de aparatos eléctricos y electrónicos.</em>',
+        'Ministerio del medio ambiente. (s.f.) <em>Residuos de aparatos eléctricos y electrónicos-RAEE</em>',
       tipo: 'Página web',
       link:
         'https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee/',
@@ -290,7 +290,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'UPME. (s.f.). Normatividad Ambiental General.',
+      referencia: 'UPME. (s.f.). <i>Normatividad Ambiental y sanitaria.</i>',
       link:
         'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM1__NORMATIVIDAD_GENERAL',
     },
@@ -315,40 +315,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruiz',
-          cargo: 'Experto Temático',
-          centro: 'Centro de Electricidad, Electrónica y Telecomunicaciones',
+          nombre: 'Gewin Alfonso Fernández Cáceres ',
+          cargo: 'Instructor ',
+          centro: 'Regional Atlántico Centro Nacional Colombo Alemán.',
         },
         {
-          nombre: 'Miroslava González H.',
-          cargo: 'Diseñador y Evaluador Instruccional',
-          centro: 'Centro de Gestión Industrial',
+          nombre: 'Miroslava González Hernández ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial.',
         },
         {
-          nombre: 'Juan Gilberto Giraldo Cortés',
-          cargo: 'Diseñador Instruccional',
-          centro: '',
-        },
-        {
-          nombre: 'Álix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Viviana Esperanza Herrera Quiñones',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano',
-          cargo: 'Asesor Pedagógico',
+          nombre: 'Ana Catalina Córdoba Sus ',
+          cargo: 'Revisora Metodológica y Pedagógica ',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica.',
         },
         {
-          nombre: 'Darío González',
-          cargo: 'Revisión y Corrección de Estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo: 'Asesor pedagógico ',
+          centro:
+            'Regional Santander Centro Industrial del Diseño y la Manufactura.',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda ',
+          cargo: 'Revisión y Corrección de Estilo ',
+          centro:
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica.',
+        },
+        {
+          nombre: 'Humberto Arias Díaz ',
+          cargo: 'Diseñador Instruccional ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -356,12 +358,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang',
+          nombre: 'José Jaime Luis Tang Pinzón',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Francisco Javier Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
@@ -372,11 +374,16 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción Audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastián Trujillo Afanador',
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
